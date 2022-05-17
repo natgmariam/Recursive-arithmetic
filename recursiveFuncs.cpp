@@ -1,6 +1,6 @@
 //
 //Description: using recursive functions to do arithmetic's 
-//such ass counting characthers, ints, reading strings, as
+//such as counting characthers, ints, reading strings, as
 //well as reading and comparing string arrays  
 //Input: there is no input, main has text cases to check foe 
 //Output: are the test case results from main such as reading 
